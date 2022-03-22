@@ -65,6 +65,7 @@ class CreditsState extends MusicBeatState
 			['Andriky',		'nome',	"???",					'',	'0xFFFFBB1B'],
 			['Bolt',			'nome',			"???",					'',			'0xFF53E52C'],
 			['Jessie',			'nome',		"???",					'',		'0xFF6475F3']
+			['Sera',			'nome',		"???",					'',		'0xFF6475F3']
 		];
 		
 		for(i in pisspoop){
